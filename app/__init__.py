@@ -1,0 +1,1 @@
+"""Paintable AI application package."""

@@ -1,1 +1,1 @@
-"""PDF viewing components."""
+"""Document viewing host components."""
